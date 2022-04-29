@@ -23,7 +23,7 @@ public class GoedeDoel {
 		return naam;
 	}
 	/**
-	 * Geeft de opbrengst terug
+	 * Geeft de huidige opbrengst terug
 	 * @return de opbrengst
 	 */
 	public BigDecimal getOpbrengst() {
